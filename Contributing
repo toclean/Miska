@@ -1,0 +1,2 @@
+# Code formatting rules
+- Keep local imports seperate from package imports (see Miska.ts for example)
